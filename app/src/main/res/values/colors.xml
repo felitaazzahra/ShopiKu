@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Palette - ShopiKu Redesign -->
+    <color name="primary">#2A3A5E</color>
+    <color name="primary_dark">#1D2844</color>
+    <color name="primary_light">#3D5280</color>
+
+    <color name="accent">#00BFA5</color>
+    <color name="accent_light">#E0F7F4</color>
+
+    <color name="bg_main">#F8FAFC</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="border_line">#E2E8F0</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <color name="price_tag">#E53935</color>
+    <color name="star_yellow">#FFB800</color>
+
+    <color name="status_pending">#F59E0B</color>
+    <color name="status_paid">#10B981</color>
+    <color name="status_shipped">#3B82F6</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

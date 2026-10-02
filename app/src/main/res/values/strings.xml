@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopiKu</string>
+    <string name="app_tagline">Marketplace Sneakers &amp; Streetwear Cirebon</string>
+
+    <!-- Navigation Tabs -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_category">Kategori</string>
+    <string name="nav_cart">Keranjang</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Auth Strings -->
+    <string name="title_login">Selamat Datang Kembali</string>
+    <string name="subtitle_login">Masuk ke akun ShopiKu Anda</string>
+    <string name="title_register">Buat Akun Baru</string>
+    <string name="subtitle_register">Daftar sekarang untuk mulai belanja</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Kata Sandi</string>
+    <string name="label_full_name">Nama Lengkap</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_register">Daftar</string>
+    <string name="btn_google">Masuk dengan Google</string>
+    <string name="prompt_no_account">Belum punya akun? Daftar</string>
+    <string name="prompt_has_account">Sudah punya akun? Masuk</string>
+
+    <!-- Home & Search -->
+    <string name="search_hint">Cari sneakers, streetwear...</string>
+    <string name="section_categories">Kategori Populer</string>
+    <string name="section_flash_sale">Flash Sale Hari Ini</string>
+    <string name="section_recommendation">Rekomendasi Spesial</string>
+    <string name="see_all">Lihat Semua</string>
+
+    <!-- Product Detail -->
+    <string name="select_variant">Pilih Varian (Ukuran / Warna)</string>
+    <string name="quantity">Jumlah</string>
+    <string name="product_description">Deskripsi Produk</string>
+    <string name="btn_add_to_cart">Tambah Keranjang</string>
+    <string name="btn_buy_now">Beli Sekarang</string>
+    <string name="reviews_title">Ulasan Pembeli</string>
+
+    <!-- Cart -->
+    <string name="cart_title">Keranjang Belanja</string>
+    <string name="cart_empty">Keranjang Belanja Anda Kosong</string>
+    <string name="cart_empty_sub">Yuk, jelajahi produk menarik dan mulai belanja!</string>
+    <string name="total_price">Total Harga</string>
+    <string name="btn_checkout">Checkout (%1$d)</string>
+
+    <!-- Checkout -->
+    <string name="checkout_title">Pengiriman &amp; Pembayaran</string>
+    <string name="shipping_address">Alamat Pengiriman</string>
+    <string name="default_address">Jl. Kartini No. 45, Kesambi, Kota Cirebon, Jawa Barat (45131)</string>
+    <string name="shipping_method">Metode Pengiriman</string>
+    <string name="shipping_regular">Reguler (Rp15.000) - Est. 2–3 Hari</string>
+    <string name="shipping_express">Express (Rp25.000) - Est. 1 Hari</string>
+    <string name="payment_method">Metode Pembayaran</string>
+    <string name="payment_va_bca">Virtual Account BCA Sandbox</string>
+    <string name="order_summary">Ringkasan Pesanan</string>
+    <string name="subtotal_product">Subtotal Produk</string>
+    <string name="shipping_cost">Biaya Pengiriman</string>
+    <string name="grand_total">Total Pembayaran</string>
+    <string name="btn_place_order">Buat Pesanan Sekarang</string>
+
+    <!-- Payment Sandbox -->
+    <string name="payment_title">Pembayaran Virtual Account</string>
+    <string name="va_number_label">Nomor Virtual Account BCA</string>
+    <string name="va_number_value">123 456 7890</string>
+    <string name="btn_copy_va">Salin Nomor VA</string>
+    <string name="countdown_label">Selesaikan Pembayaran Dalam</string>
+    <string name="btn_check_payment_status">Cek Status Pembayaran</string>
+    <string name="payment_success">Pembayaran Berhasil! (Status: Lunas)</string>
+
+    <!-- Tracking -->
+    <string name="tracking_title">Lacak Pesanan</string>
+    <string name="courier_info">Kurir: JNE Express (Resi: SHP-CRB-998811)</string>
+    <string name="status_packed">Dikemas oleh Penjual</string>
+    <string name="status_shipped">Dalam Pengiriman Kurir</string>
+    <string name="status_delivered">Pesanan Tiba di Tujuan</string>
+
+    <!-- Profile & Reviews -->
+    <string name="profile_title">Profil Saya</string>
+    <string name="menu_orders">Pesanan Saya</string>
+    <string name="menu_address">Alamat Pengiriman</string>
+    <string name="menu_logout">Keluar Akun</string>
+    <string name="write_review">Tulis Ulasan</string>
+    <string name="rating_average">4.8 / 5.0</string>
+    <string name="btn_submit_review">Kirim Ulasan</string>
+
+    <!-- Error/State handling -->
+    <string name="error_network">Koneksi bermasalah. Menampilkan data lokal/cache.</string>
+    <string name="btn_retry">Coba Lagi</string>
+    <string name="toast_added_to_cart">Berhasil ditambahkan ke keranjang!</string>
+    <string name="toast_select_variant">Harap pilih varian terlebih dahulu!</string>
+    <string name="toast_copied">Nomor VA berhasil disalin!</string>
+</resources>
